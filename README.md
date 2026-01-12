@@ -27,9 +27,9 @@ From a software side, I've shown application across **AI/ML, Computer Vision, NL
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects  [link to repo](https://github.com/AIBenHopwood/AIBenHopwood/tree/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects)
 
-### 🧠 Brain Tumor Detection & Segmentation  
+### 🧠 Brain Tumor Detection & Segmentation  [link](https://github.com/AIBenHopwood/AIBenHopwood/blob/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects/Brain%20Tumor%20Detection%20-%20Summary.md)
 **UNet, ResNet-50, VGG-19 | MRI Segmentation**  
 Deep learning models for pixel-level brain tumor segmentation to support AI-assisted radiology workflows.  
 **Best Dice Score:** 0.899 (ResNet-50)  
@@ -37,35 +37,35 @@ Deep learning models for pixel-level brain tumor segmentation to support AI-assi
 
 ---
 
-### 🤖 PHI Detection & De-Identification (Capstone)  
+### 🤖 PHI Detection & De-Identification (Capstone)  [link](https://github.com/AIBenHopwood/AIBenHopwood/blob/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects/PHI%20Detection%20on%20AWS%20-%20Summary.md)
 **ClinicalBERT | HIPAA Compliance**  
 AI system to detect and anonymize Protected Health Information in clinical notes using transformer-based NER.  
 *Healthcare NLP • Privacy-preserving AI • Regulatory awareness*  
 
 ---
 
-### 🧾 SQuAD Chatbot with RAG  
+### 🧾 SQuAD Chatbot with RAG  [link](https://github.com/AIBenHopwood/AIBenHopwood/blob/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects/Chatbot%20GenAI%20-%20Summary.md)
 **ELECTRA + SBERT + TF-IDF | Gradio UI**  
 Multi-turn QA chatbot using fine-tuned transformers and Retrieval-Augmented Generation.  
 *LLM fine-tuning • Semantic retrieval • Deployment*
 
 ---
 
-### 🏥 CarePath Analytics (MLOps)  
+### 🏥 CarePath Analytics (MLOps)  [link](https://github.com/AIBenHopwood/AIBenHopwood/blob/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects/MLOps%20with%20CICD%20-%20Summary.md)
 **AWS | XGBoost | CI/CD | Monitoring**  
 End-to-end MLOps pipeline for heart disease and stroke risk assessment with governance and bias monitoring.  
 *Enterprise ML • Healthcare deployment • Compliance*
 
 ---
 
-### 🌬️ IoT Respiratory Monitoring  
+### 🌬️ IoT Respiratory Monitoring  [link](https://github.com/AIBenHopwood/AIBenHopwood/blob/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects/IoT%20Respitory%20Moitoring%20-%20Summary.md)
 **CNN + LSTM | Tableau Dashboard**  
 IoT-enabled system predicting tidal volume and flow rate for sleep apnea management.  
 *IoT • Time-series ML • Healthcare analytics*
 
 ---
 
-### 🎵 Composer Classification  
+### 🎵 Composer Classification  [link](https://github.com/AIBenHopwood/AIBenHopwood/blob/d5e80808db15229c7175b1549987cc3f4ffe576b/Featured%20Projects/Composer%20Classification%20-%20Summary.md)
 **LSTM + CNN | Optuna**  
 Deep learning models to classify classical composers from MIDI data.  
 *Sequence modeling • Hyperparameter optimization*
